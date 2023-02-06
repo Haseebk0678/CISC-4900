@@ -2,7 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-Followed this [guidline](https://mokkapps.de/blog/how-to-automatically-generate-a-helpful-changelog-from-your-git-commit-messages/) to automate the changelog features
+### [1.1.1](https://github.com/Haseebk0678/CISC-4900/compare/v1.1.0...v1.1.1) (2023-02-06)
+
+
+### Features
+
+* fixed mistake in changelog ([71dd028](https://github.com/Haseebk0678/CISC-4900/commit/71dd028d62b1038e1f81019c382fe962abfa1fc4))
 
 ## [1.1.0](https://github.com/Haseebk0678/CISC-4900/compare/v1.0.0...v1.1.0) (2023-02-06)
 
