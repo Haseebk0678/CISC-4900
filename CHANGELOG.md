@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/Haseebk0678/CISC-4900/compare/v1.0.0...v1.1.0) (2023-02-06)
+
+
+### Features
+
+* fix the git commit for Changelog ([2464607](https://github.com/Haseebk0678/CISC-4900/commit/2464607b406b9f2b498ace31325aa500e82e3893))
+
 ## 1.0.0 (2023-02-06)
 
 
