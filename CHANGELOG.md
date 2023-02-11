@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/Haseebk0678/CISC-4900/compare/v1.1.1...v1.2.0) (2023-02-11)
+
+
+### Features
+
+* add images to folder ([04b7554](https://github.com/Haseebk0678/CISC-4900/commit/04b755466dea8b2a8522e473de89e2715ce5e013))
+
 ### [1.1.1](https://github.com/Haseebk0678/CISC-4900/compare/v1.1.0...v1.1.1) (2023-02-06)
 
 
