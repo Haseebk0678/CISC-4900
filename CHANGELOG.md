@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/Haseebk0678/CISC-4900/compare/v1.2.0...v2.0.0) (2023-02-23)
+
+
+### Features
+
+* got the vm to work and transfered work from google colab to here ([2906417](https://github.com/Haseebk0678/CISC-4900/commit/290641782db967713f6385dc274f93cefd8a1e08))
+
 ## [1.2.0](https://github.com/Haseebk0678/CISC-4900/compare/v1.1.1...v1.2.0) (2023-02-11)
 
 
