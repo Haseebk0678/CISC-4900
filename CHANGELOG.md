@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/Haseebk0678/CISC-4900/compare/v2.0.0...v3.0.0) (2023-03-12)
+
+
+### Features
+
+* worked on the convulational nueral network and achieved 80% accuracy so far ([a539c31](https://github.com/Haseebk0678/CISC-4900/commit/a539c3150ecc88166e1a280b9efdea2e364fd7c4))
+
 ## [2.0.0](https://github.com/Haseebk0678/CISC-4900/compare/v1.2.0...v2.0.0) (2023-02-23)
 
 
