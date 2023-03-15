@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github.com/Haseebk0678/CISC-4900/compare/v3.0.1...v3.1.0) (2023-03-15)
+
+
+### Bug Fixes
+
+* escaped git hell and deleted branch and just moved changes here ([a593ca1](https://github.com/Haseebk0678/CISC-4900/commit/a593ca1d082f243a830a86a5cc6c3124d2be0b6b))
+* worked on branch and saw fix to issue but was in git hell ([a2cfba3](https://github.com/Haseebk0678/CISC-4900/commit/a2cfba3198bba84e1e05ea71b761edd2a3110b42))
+
 ### [3.0.1](https://github.com/Haseebk0678/CISC-4900/compare/v3.0.0...v3.0.1) (2023-03-12)
 
 ## [3.0.0](https://github.com/Haseebk0678/CISC-4900/compare/v2.0.0...v3.0.0) (2023-03-12)
