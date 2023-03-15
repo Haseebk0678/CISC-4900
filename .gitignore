@@ -1,2 +1,5 @@
 node_modules
 .FaskMask*
+lib
+bin
+New_Masks_Dataset
