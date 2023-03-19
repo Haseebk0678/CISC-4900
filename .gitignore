@@ -5,3 +5,4 @@ bin
 New_Masks_Dataset
 include
 pyvenv.cfg
+*.DS_store
