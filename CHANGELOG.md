@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.2.0](https://github.com/Haseebk0678/CISC-4900/compare/v3.1.0...v3.2.0) (2023-03-29)
+
+
+### Features
+
+* added in changes from branch and worked on improving model accuracy 85% ([048bb8c](https://github.com/Haseebk0678/CISC-4900/commit/048bb8c09253eafc98e8deacf4a7fb8ad02f965d))
+* added in open-cv package and connected webcam to work with machine learning model ([06c2609](https://github.com/Haseebk0678/CISC-4900/commit/06c26092a9ef33d2207a7dafe0b642564a41aa1a))
+
 ## [3.1.0](https://github.com/Haseebk0678/CISC-4900/compare/v3.0.1...v3.1.0) (2023-03-15)
 
 
