@@ -7,3 +7,4 @@ include
 pyvenv.cfg
 *.DS_store
 *.png
+.ipynb_checkpoints
