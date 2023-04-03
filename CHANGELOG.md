@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.3.0](https://github.com/Haseebk0678/CISC-4900/compare/v3.2.0...v3.3.0) (2023-04-03)
+
+
+### Features
+
+* improve accuracy nearing 90% and seperate demo image files with model training ([dc3372a](https://github.com/Haseebk0678/CISC-4900/commit/dc3372a35c7031159edc9931874a7a3a5a4f0b92))
+
+
+### Bug Fixes
+
+* small change for the camera and added input shape ([802b662](https://github.com/Haseebk0678/CISC-4900/commit/802b66227fe8a7e5468bb167551efc577dbc6164))
+* tested on new model ([4861f25](https://github.com/Haseebk0678/CISC-4900/commit/4861f25793342aee5b5536da851c7ef6dcba1aa8))
+
 ## [3.2.0](https://github.com/Haseebk0678/CISC-4900/compare/v3.1.0...v3.2.0) (2023-03-29)
 
 
