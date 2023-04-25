@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/Haseebk0678/CISC-4900/compare/v3.3.0...v4.0.0) (2023-04-25)
+
+
+### Features
+
+* started on the flask website ([e660405](https://github.com/Haseebk0678/CISC-4900/commit/e660405a03c37878b3281fab2e3f89c4b1814d60))
+* worked on creating different types of models with different parameters ([306057d](https://github.com/Haseebk0678/CISC-4900/commit/306057d5dafcdd94245b87593a895ee11a92bd3e))
+
 ## [3.3.0](https://github.com/Haseebk0678/CISC-4900/compare/v3.2.0...v3.3.0) (2023-04-03)
 
 
