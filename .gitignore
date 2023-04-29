@@ -5,6 +5,7 @@ bin
 New_Masks_Dataset
 include
 pyvenv.cfg
+share
 *.DS_store
 *.png
 .ipynb_checkpoints
