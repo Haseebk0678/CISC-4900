@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.1.0](https://github.com/Haseebk0678/CISC-4900/compare/v4.0.0...v4.1.0) (2023-04-29)
+
+
+### Features
+
+* removed flask bc most likely going to be using opencv for demo ([1bc72e8](https://github.com/Haseebk0678/CISC-4900/commit/1bc72e8af9ff2b16032a946369fc58fc0f950c07))
+
 ## [4.0.0](https://github.com/Haseebk0678/CISC-4900/compare/v3.3.0...v4.0.0) (2023-04-25)
 
 
