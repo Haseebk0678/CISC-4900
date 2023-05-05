@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://github.com/Haseebk0678/CISC-4900/compare/v4.1.0...v5.0.0) (2023-05-05)
+
+
+### Features
+
+* demo ready use model 3 or 7 ([e175410](https://github.com/Haseebk0678/CISC-4900/commit/e175410002635210ae06644261d745ae671f6754))
+* removed share from file and put in gitignore ([62e0d26](https://github.com/Haseebk0678/CISC-4900/commit/62e0d260c6e93ce7d45bd9971d7f355e3b676595))
+
 ## [4.1.0](https://github.com/Haseebk0678/CISC-4900/compare/v4.0.0...v4.1.0) (2023-04-29)
 
 
