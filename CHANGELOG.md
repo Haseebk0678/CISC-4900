@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.0.1](https://github.com/Haseebk0678/CISC-4900/compare/v5.0.0...v5.0.1) (2023-05-10)
+
+
+### Features
+
+* worked on fixing up the code and adding in more comments ([e2015e0](https://github.com/Haseebk0678/CISC-4900/commit/e2015e0e9b5fce868edfbc7b0626b1f33968c641))
+
 ## [5.0.0](https://github.com/Haseebk0678/CISC-4900/compare/v4.1.0...v5.0.0) (2023-05-05)
 
 
